@@ -26057,3 +26057,47 @@ screen and (max-height: 300px) {
 	right: 0;
 	padding-top: 0;
 }
+
+
+
+
+
+
+
+
+
+
+
+/*-------------------------------------------------------
+*	
+*--------------------------------------------------------
+*/
+
+.products-item{
+	background: #f3f3f3;
+	padding: 20px 15px;
+	text-align: left;
+}
+.products-item:hover{
+	background: #dddddd;
+}
+.products-item h5{
+	padding-bottom: 5px;
+	color: #151515;
+}
+.products-item p{
+	font-weight: bold;
+	color: #151515;
+}
+.download-pdf-catalog{
+	background: #151515;
+	padding: 8px 5px;
+}
+.download-pdf-catalog:hover{
+	background: #C50000;
+	color: #fff;
+	transition: all 1s;
+}
+.download-pdf-catalog a{
+	color:#fff;
+}
